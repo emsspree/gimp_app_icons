@@ -7,7 +7,7 @@ Icon in which Wilber is curtailed.
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberc.iconset/icon_128x128.png" alt="App icon: gimp-wilberc (128×128 pixels)" />
   <br />128×128&nbsp;px</td>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberc.iconset/icon_16x16.png" alt="App icon: gimp-wilberc (16×16 pixels)" />
-  <br />16×16&nbsp;px (original)</td>
+  <br />16×16&nbsp;px <br />(original icon)</td>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberc.iconset/preview.png" alt="Dock preview: gimp-wilberc" /></td>
 </tr></tbody></table>
 
@@ -17,7 +17,7 @@ Icon in which Wilber protrudes.
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberp.iconset/icon_128x128.png" alt="App icon: gimp-wilberp (128×128 pixels)" />
   <br />128×128&nbsp;px</td>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberp.iconset/icon_16x16.png" alt="App icon: gimp-wilberp (16×16 pixels)" />
-  <br />16×16&nbsp;px (original)</td>
+  <br />16×16&nbsp;px <br />(original icon)</td>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberp.iconset/preview.png" alt="Dock preview: gimp-wilberp" /></td>
 </tr></tbody></table>
 
