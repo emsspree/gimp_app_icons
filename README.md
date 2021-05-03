@@ -2,7 +2,7 @@
 Application icons for GIMP
 
 ## Wilber curtailed
-Icon in which Wilber is curtailed.
+Icon in which Wilber is curtailed. (PNG, ICNS)
 <table><tbody><tr>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberc.iconset/icon_128x128.png" alt="App icon: gimp-wilberc (128×128 pixels)" />
   <br />128×128&nbsp;px</td>
@@ -12,7 +12,7 @@ Icon in which Wilber is curtailed.
 </tr></tbody></table>
 
 ## Wilber protrudes
-Icon in which Wilber protrudes.
+Icon in which Wilber protrudes. (PNG, ICNS)
 <table><tbody><tr>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberp.iconset/icon_128x128.png" alt="App icon: gimp-wilberp (128×128 pixels)" />
   <br />128×128&nbsp;px</td>
@@ -22,7 +22,7 @@ Icon in which Wilber protrudes.
 </tr></tbody></table>
 
 ## Photoshop 22 inspired
-GIMP icon inspired by Photoshop 22
+GIMP icon inspired by Photoshop 22. (SVG, PNG, ICNS)
 <table><tbody><tr>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-ps22.iconset/icon_128x128.png" alt="App icon: gimp-ps22 (128×128 pixels)" />
   <br />128×128&nbsp;px</td>
