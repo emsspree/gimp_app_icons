@@ -4,11 +4,7 @@ Application icons for GIMP
 ## Wilber curtailed
 Icon in which Wilber is curtailed.
 
-Formats:
-  PNG, ICNS
-
-Sizes (pixels × pixels):
-  16, 32, 64, 128, 256, 512, 1024
+Formats: PNG, ICNS  —  Sizes: 16, 32, 64, 128, 256, 512, 1024
 
 <table><tbody><tr>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberc.iconset/icon_128x128.png" alt="App icon: gimp-wilberc (128×128 pixels)" />
@@ -21,11 +17,7 @@ Sizes (pixels × pixels):
 ## Wilber protrudes
 Icon in which Wilber protrudes. (PNG, ICNS)
 
-Formats:
-  PNG, ICNS
-
-Sizes (pixels × pixels):
-  16, 32, 64, 128, 256, 512, 1024
+Formats: PNG, ICNS  —  Sizes: 16, 32, 64, 128, 256, 512, 1024
 
 <table><tbody><tr>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-wilberp.iconset/icon_128x128.png" alt="App icon: gimp-wilberp (128×128 pixels)" />
@@ -38,11 +30,7 @@ Sizes (pixels × pixels):
 ## Photoshop 22 inspired
 GIMP icon inspired by Photoshop 22. (SVG, PNG, ICNS)
 
-Formats:
-  SVG, PNG, ICNS
-
-Sizes (pixels × pixels):
-  16, 32, 64, 128, 256, 512, 1024
+Formats: SVG, PNG, ICNS  —  Sizes: 16, 32, 64, 128, 256, 512, 1024
 
 <table><tbody><tr>
 <td><img src="https://github.com/emsspree/GIMP_icons/blob/main/gimp-ps22.iconset/icon_128x128.png" alt="App icon: gimp-ps22 (128×128 pixels)" />
