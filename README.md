@@ -1,4 +1,4 @@
-# GIMP icons
+# GIMP application icons
 Application icons for GIMP
 
 ## Wilber curtailed
