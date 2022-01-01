@@ -1,35 +1,37 @@
 # GIMP application icons
-Application icons for GIMP
 
-## Wilber curtailed
-Icon in which Wilber is curtailed by a white quare with rounded corners. (PNG, ICNS; 16, 32, 64, 128, 256, 512, 1024)
 
-<table><tbody><tr>
-<td><img src="https://github.com/emsspree/gimp_icons/blob/main/gimp-wilberc.iconset/icon_256x256.png" alt="App icon: gimp-wilberc (256×256 pixels)" />
-  <br />256×256 px</td>
-<td><img src="https://github.com/emsspree/gimp_icons/blob/main/gimp-wilberc.iconset/icon_16x16.png" alt="App icon: gimp-wilberc (16×16 pixels)" />
-  <br />16×16&nbsp;px <br />(original icon)</td>
-<td><img src="https://github.com/emsspree/gimp_icons/blob/main/gimp-wilberc.iconset/preview.png" alt="Dock preview: gimp-wilberc" /></td>
-</tr></tbody></table>
+## Wilber clipped
+
+Icon in which Wilber is clipped by a quare with rounded corners. (, ; )
+
+|  Wilber clipped  |  &nbsp;  |  &nbsp;  |
+|  :---:           |  :---:   |  :---:   |
+|  ![](./gimp-wilberc.iconset/icon_256x256.png)  |  ![](./gimp-wilberc.iconset/icon_32x32@2x.png)  |  ![](./gimp-wilberc.iconset/preview.png)  |
+|  256 × 256 pixels  |  64 × 64 pixels  |  Dock preview  |
+
+|  Image File Format  |  Size(s) in Pixels² (width≡height)   |
+|  :---               |  :---      |
+|  SVG                |  scalable  |
+|  PNG                |  16, 22, 24, 32, 64, 128, 256, 512, 1024  |
+|  ICNS               |  16, 16@2x (32), 32, 32@2x (64), 128@2x (256), 256, 256@2x (512)  |
+
 
 ## Wilber protrudes
-Icon in which Wilber protrudes the white quare with rounded corners. (PNG, ICNS; 16, 32, 64, 128, 256, 512, 1024)
 
-<table><tbody><tr>
-<td><img src="https://github.com/emsspree/gimp_icons/blob/main/gimp-wilberp.iconset/icon_256x256.png" alt="App icon: gimp-wilberp (256×256 pixels)" />
-  <br />256×256 px</td>
-<td><img src="https://github.com/emsspree/gimp_icons/blob/main/gimp-wilberp.iconset/icon_16x16.png" alt="App icon: gimp-wilberp (16×16 pixels)" />
-  <br />16×16&nbsp;px <br />(original icon)</td>
-<td><img src="https://github.com/emsspree/gimp_icons/blob/main/gimp-wilberp.iconset/preview.png" alt="Dock preview: gimp-wilberp" /></td>
-</tr></tbody></table>
+Icon in which Wilber protrudes from a quare with rounded corners. (PNG, ICNS; 16, 32, 64, 128, 256, 512, 1024)
+
+|  Wilber clipped  |  &nbsp;  |  &nbsp;  |
+|  :---:           |  :---:   |  :---:   |
+|  ![](./gimp-wilberp.iconset/icon_256x256.png)  |  ![](./gimp-wilberp.iconset/icon_32x32@2x.png)  |  ![](./gimp-wilberp.iconset/preview.png)  |
+|  256 × 256 pixels  |  64 × 64 pixels  |  Dock preview  |
+
 
 ## Photoshop 22 inspired
-GIMP icon inspired by Photoshop 22. (SVG, PNG, ICNS; 16, 32, 64, 128, 256, 512, 1024)
 
-<table><tbody><tr>
-<td><img src="https://github.com/emsspree/gimp_icons/blob/main/gimp-ps22.iconset/icon_256x256.png" alt="App icon: gimp-ps22 (256×256 pixels)" />
-  <br />256×256 px</td>
-<td><img src="https://github.com/emsspree/gimp_icons/blob/main/gimp-ps22.iconset/icon_16x16.png" alt="App icon: gimp-ps22 (16×16 pixels)" />
-  <br />16×16&nbsp;px</td>
-<td><img src="https://github.com/emsspree/gimp_icons/blob/main/gimp-ps22.iconset/preview.png" alt="Dock preview: gimp-ps22" /></td>
-</tr></tbody></table>
+Icon inspired by Photoshop 22 icon. (SVG, PNG, ICNS; 16, 32, 64, 128, 256, 512, 1024)
+
+|  Photoshop 22 inspired  |  &nbsp;  |  &nbsp;  |
+|  :---:                  |  :---:   |  :---:   |
+|  ![](./gimp-ps22.iconset/icon_256x256.png)  |  ![](./gimp-ps22.iconset/icon_32x32@2x.png)  |  ![](./gimp-ps22.iconset/preview.png)  |
+|  256 × 256 pixels  |  64 × 64 pixels  |  Dock preview  |
