@@ -3,7 +3,7 @@
 
 ## Wilber clipped
 
-Icon in which Wilber is clipped by a quare with rounded corners. (, ; )
+Icon in which Wilber is clipped by a quare with rounded corners.
 
 |  Wilber clipped  |  &nbsp;  |  &nbsp;  |
 |  :---:           |  :---:   |  :---:   |
@@ -23,7 +23,7 @@ Icon in which Wilber protrudes from a quare with rounded corners. (PNG, ICNS; 16
 
 |  Wilber clipped  |  &nbsp;  |  &nbsp;  |
 |  :---:           |  :---:   |  :---:   |
-|  ![](./gimp-wilberp.iconset/icon_256x256.png)  |  ![](./gimp-wilberp.iconset/icon_32x32@2x.png)  |  ![](./gimp-wilberp.iconset/preview.png)  |
+|  ![](./WilberProtrudes-macOSstyle/hicolor/256x256/apps/gimp.png)  |  ![](./WilberClipped-macOSstyle/hicolor/64x64/apps/gimp.png)  |  ![](./WilberClipped-macOSstyle/preview.png)  |
 |  256 × 256 pixels  |  64 × 64 pixels  |  Dock preview  |
 
 
@@ -33,5 +33,5 @@ Icon inspired by Photoshop 22 icon. (SVG, PNG, ICNS; 16, 32, 64, 128, 256, 512, 
 
 |  Photoshop 22 inspired  |  &nbsp;  |  &nbsp;  |
 |  :---:                  |  :---:   |  :---:   |
-|  ![](./gimp-ps22.iconset/icon_256x256.png)  |  ![](./gimp-ps22.iconset/icon_32x32@2x.png)  |  ![](./gimp-ps22.iconset/preview.png)  |
+|  ![](./Ps22/icon_256x256.png)  |  ![](./Ps22.iconset/icon_32x32@2x.png)  |  ![](./Ps22.iconset/preview.png)  |
 |  256 × 256 pixels  |  64 × 64 pixels  |  Dock preview  |
