@@ -3,35 +3,29 @@
 
 ## Wilber clipped
 
-Icon in which Wilber is clipped by a quare with rounded corners.
+Icon in which Wilber is clipped by a quare with rounded corners. Matches&nbsp;the macOS&nbsp;Big&nbsp;Sur icons&nbsp;style.
 
-|  Wilber clipped  |  &nbsp;  |  &nbsp;  |
-|  :---:           |  :---:   |  :---:   |
-|  ![](./gimp-wilberc.iconset/icon_256x256.png)  |  ![](./gimp-wilberc.iconset/icon_32x32@2x.png)  |  ![](./gimp-wilberc.iconset/preview.png)  |
+|  WilberClipped-macOSstyle  |  &nbsp;  |  &nbsp;  |
+|  :---:  |  :---:  |  :---:  |
+|  ![](WilberClipped-macOSstyle/hicolor/256x256/apps/gimp.png)  |  ![](WilberClipped-macOSstyle/hicolor/64x64/apps/gimp.png)  |  ![](WilberClipped-macOSstyle/preview.png)  |
 |  256 × 256 pixels  |  64 × 64 pixels  |  Dock preview  |
-
-|  Image File Format  |  Size(s) in Pixels² (width≡height)   |
-|  :---               |  :---      |
-|  SVG                |  scalable  |
-|  PNG                |  16, 22, 24, 32, 64, 128, 256, 512, 1024  |
-|  ICNS               |  16, 16@2x (32), 32, 32@2x (64), 128@2x (256), 256, 256@2x (512)  |
 
 
 ## Wilber protrudes
 
-Icon in which Wilber protrudes from a quare with rounded corners. (PNG, ICNS; 16, 32, 64, 128, 256, 512, 1024)
+Icon in which Wilber protrudes from a quare with rounded corners. Matches&nbsp;the macOS&nbsp;Big&nbsp;Sur icons&nbsp;style.
 
-|  Wilber clipped  |  &nbsp;  |  &nbsp;  |
-|  :---:           |  :---:   |  :---:   |
-|  ![](./WilberProtrudes-macOSstyle/hicolor/256x256/apps/gimp.png)  |  ![](./WilberClipped-macOSstyle/hicolor/64x64/apps/gimp.png)  |  ![](./WilberClipped-macOSstyle/preview.png)  |
+|  WilberProtrudes-macOSstyle  |  &nbsp;  |  &nbsp;  |
+|  :---:  |  :---:   |  :---:   |
+|  ![](./WilberProtrudes-macOSstyle/hicolor/256x256/apps/gimp.png)  |  ![](./WilberProtrudes-macOSstyle/hicolor/64x64/apps/gimp.png)  |  ![](./WilberProtrudes-macOSstyle/preview.png)  |
 |  256 × 256 pixels  |  64 × 64 pixels  |  Dock preview  |
 
 
-## Photoshop 22 inspired
+## Photoshop 22
 
-Icon inspired by Photoshop 22 icon. (SVG, PNG, ICNS; 16, 32, 64, 128, 256, 512, 1024)
+Icon mimics the icon of Photoshop 22.
 
-|  Photoshop 22 inspired  |  &nbsp;  |  &nbsp;  |
+|  Ps22  |  &nbsp;  |  &nbsp;  |
 |  :---:                  |  :---:   |  :---:   |
 |  ![](./Ps22/icon_256x256.png)  |  ![](./Ps22.iconset/icon_32x32@2x.png)  |  ![](./Ps22.iconset/preview.png)  |
 |  256 × 256 pixels  |  64 × 64 pixels  |  Dock preview  |
